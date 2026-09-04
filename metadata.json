@@ -1,0 +1,6 @@
+{
+  "name": "Life Insurance Expense Tracker",
+  "description": "Comprehensive life insurance policy and expense management system with direct and indirect cost tracking, premium calendar, renewal reminders, and reports.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
